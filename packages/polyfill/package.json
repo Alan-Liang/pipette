@@ -1,0 +1,23 @@
+{
+  "name": "@pipette/polyfill",
+  "version": "0.0.1",
+  "description": "Pipette Polyfill",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Liang/pipette.git"
+  },
+  "keywords": [
+    "pipette",
+    "polyfill"
+  ],
+  "author": "Alan-Liang",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Alan-Liang/pipette/issues"
+  },
+  "homepage": "https://github.com/Alan-Liang/pipette/tree/master/packages/polyfill/"
+}
